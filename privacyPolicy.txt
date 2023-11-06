@@ -1,0 +1,45 @@
+Política de Privacidad de MRI Simulator
+
+Última actualización: [06 de Noviembre del 2023]
+
+1. Introducción
+
+La presente Política de Privacidad destaca que MRI Simulator ("nosotros", "nuestra" o "la empresa") se compromete a proteger la privacidad de los usuarios y enfatiza que nuestra aplicación MRI Simulator ("la aplicación") tiene un enfoque exclusivo en fines educativos. Esta política se aplica a todos los usuarios de la aplicación, incluyendo aquellos menores de 13 años.
+
+2. Recopilación Mínima de Datos
+
+Información de registro: Para proporcionar acceso a la aplicación, solicitamos a los usuarios que se registren con un nombre de usuario y una dirección de correo electrónico. Sin embargo, no recopilamos información adicional, como detalles de contacto.
+
+Datos académicos: La aplicación no recopila datos académicos de los usuarios.
+
+Datos de dispositivos: La aplicación puede recopilar información sobre el dispositivo del usuario, como la versión del sistema operativo, pero esta información se utiliza únicamente para mejorar la calidad y el rendimiento de la aplicación.
+
+3. Enfoque Educativo
+
+Nuestra aplicación MRI Simulator tiene un enfoque exclusivo en fines educativos universitarios y posteriores. No utilizamos los datos de los usuarios con fines comerciales ni publicitarios. Los datos recopilados se utilizan para personalizar la experiencia educativa del usuario y mejorar la calidad de la aplicación.
+
+4. Compartir Información
+
+No compartimos información personal de los usuarios con terceros. Los datos recopilados se mantienen estrictamente confidenciales y se utilizan únicamente para los fines educativos y funcionales de la aplicación.
+
+5. Seguridad de los Datos
+
+Tomamos medidas de seguridad razonables para proteger la información personal y de dispositivos de los usuarios. Utilizamos protocolos seguros para la transmisión de datos y almacenamos la información en servidores seguros.
+
+6. Derechos de los Usuarios
+
+Los usuarios tienen el derecho de acceder, corregir o eliminar su información personal. Para ejercer estos derechos o hacer preguntas sobre esta política, pueden ponerse en contacto con nosotros a través de [correo electrónico de contacto].
+
+7. Menores de 13 años
+
+Reconocemos la importancia de la privacidad de los niños menores de 13 años. No recopilamos intencionalmente información personal de niños menores de 13 años sin el consentimiento de sus padres o tutores legales.
+
+8. Cambios en la Política de Privacidad
+
+Podemos actualizar esta política de privacidad ocasionalmente. Se notificará a los usuarios sobre los cambios significativos en la política y la fecha de entrada en vigencia de la versión actualizada.
+
+9. Contacto
+
+Para cualquier pregunta o preocupación relacionada con esta política de privacidad, comuníquese con nosotros a través de [correo electrónico de contacto].
+
+Al utilizar nuestra aplicación, usted acepta los términos y condiciones establecidos en esta política de privacidad y reconoce nuestro enfoque educativo y de recopilación de datos mínima.
